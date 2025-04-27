@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Babu M's Creative Portfolio Website [(live)](https://profilepalette.vercel.app/)
 
 This is an open-source portfolio website template designed for developers who want a visually appealing, responsive and animated website without extensive custom development. You can easily use this template by copying the code and adding your own data to create a similar animated website showcasing your projects, contact information, about section, and social media links.
@@ -123,3 +124,7 @@ export const metadata: Metadata = {
   title: "Babu M",
   description: "Personal website of Babu M",
 }
+=======
+# babuportfolio
+babu portfolio
+>>>>>>> 647cddc911ef2cf5d5d0e5b0dce0797d44e4233f
